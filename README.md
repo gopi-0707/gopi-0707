@@ -33,4 +33,3 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a strong back
 
 Feel free to explore my repositories and reach out to collaborate on exciting projects!
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=gopi-0707.gopi-0707)
